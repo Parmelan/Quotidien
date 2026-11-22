@@ -1,5 +1,5 @@
 /* Met l'app en cache pour qu'elle s'ouvre même sans réseau. Aucune donnée personnelle ne passe ici. */
-const CACHE = 'mon-quotidien-v1.0.1';
+const CACHE = 'mon-quotidien-v1.1';
 const FILES = ['./', './index.html', './styles.css', './app.js', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
